@@ -24,5 +24,11 @@ Key features of GI-Navigator:
 
 ## News
 
+- [2026/03] Update examples for patient-journey inference.
+- [2026/03] GI-Navigator is released.
 
-- [2026/03] GI-Navigator is Released. The examples, data and codes are under preparation. Stay tuned!
+## Getting Started
+
+[Examples](./docs/examples/)
+
+The data and codes are under preparation. Stay tuned!
